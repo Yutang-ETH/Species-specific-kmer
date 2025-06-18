@@ -10,5 +10,8 @@ What I have done:
 5. take the number of L. m specific k-mers as the x coordinate and the number of L. p specific k-mers as the y coordinate, visualize these genotypes. Clearly it can be seen that L. p and L. m genotypes are separated 
 6. further obtain the common L. m specific k-mers found in all 25 L. m genotypes, name this set as L. m specific core set
 7. further obtain the common L. p specific k-mers found in all 10 L. p genotypes, name this set as L. p specific core set
-8. align L.m and L.p core sets to genome assembly Kyuss v2.0 (L. p) to find their positions in Kyuss genome 
+8. align L.m and L.p core sets to genome assembly Kyuss v2.0 (L. p) to find their positions in Kyuss genome
+
+In the above first image, the left panel corresponds to step 1-4, the right panel corresponds to the step 5
+The second image shows an example of a genic locus where both L. m specific and L. p specific core sets are aligned to the assembly. Blue indicates L. p core k-mers, red indicates L. m core k-mers 
 ```
